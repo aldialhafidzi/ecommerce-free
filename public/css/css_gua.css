@@ -1,0 +1,68 @@
+.overlay {
+	position: fixed;
+	width: 100vw;
+	height: 100vh;
+	background: rgba(0, 0, 0, 0.7);
+	z-index: 1000;
+	display: none;
+}
+
+.block2-label-discount-10::before {
+	background-color: #66a8a6;
+	content: '10%';
+}
+
+.block2-label-discount-15::before {
+	background-color: #66a8a6;
+	content: '15%';
+}
+
+.block2-label-discount-20::before {
+	background-color: #66a8a6;
+	content: '20%';
+}
+
+.block2-label-discount-25::before {
+	background-color: #66a8a6;
+	content: '25%';
+}
+
+.block2-label-discount-30::before {
+	background-color: #66a8a6;
+	content: '30%';
+}
+
+.block2-label-discount-35::before {
+	background-color: #66a8a6;
+	content: '35%';
+}
+
+.block2-label-discount-40::before {
+	background-color: #66a8a6;
+	content: '40%';
+}
+
+.block2-label-discount-45::before {
+	background-color: #66a8a6;
+	content: '45%';
+}
+
+.block2-label-discount-50::before {
+	background-color: #66a8a6;
+	content: '50%';
+}
+
+.block2-label-discount-60::before {
+	background-color: #66a8a6;
+	content: '60%';
+}
+
+.block2-label-discount-70::before {
+	background-color: #66a8a6;
+	content: '70%';
+}
+
+.block2-label-discount-80::before {
+	background-color: #66a8a6;
+	content: '80%';
+}
